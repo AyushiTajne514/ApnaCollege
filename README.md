@@ -1,3 +1,4 @@
 # ApnaCollege
+
 This is git Repository.<br>
-Author - Ayushi
+Author - Ayushi Tajne
