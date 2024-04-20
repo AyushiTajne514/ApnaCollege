@@ -1,2 +1,3 @@
 # ApnaCollege
-This is git Reprository
+This is git Repository
+Author - Ayushi
